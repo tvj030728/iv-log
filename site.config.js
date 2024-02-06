@@ -17,7 +17,7 @@ const CONFIG = {
     },
   ],
   blog: {
-    title: "iv-log",
+    title: "iv-Log | 이블로그",
     description: "누추한분이 귀한 곳에!",
   },
 
