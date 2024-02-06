@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Developer",
     bio: "대한민국에 흔해빠진 올라운더 개발자.",
     email: "me@ivl.is",
-    linkedin: "tvj030728",
+    linkedin: "준서-남-ab92ba2b3",
     github: "tvj030728",
     instagram: "pic_jakka",
   },
