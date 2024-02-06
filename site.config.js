@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "tvj030728/iv-log",
+      repo: "tvj030728/iv-log",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
