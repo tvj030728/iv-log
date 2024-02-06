@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `프로젝트`,
-      href: "https://준비중/",
+      href: "https://github.com/tvj030728/",
     },
   ],
   blog: {
