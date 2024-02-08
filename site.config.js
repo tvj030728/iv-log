@@ -4,7 +4,7 @@ const CONFIG = {
     name: "ivLis",
     image: "https://r2.ivl.is/images/universal/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Developer",
-    bio: "대한민국에 흔해빠진 올라운더 개발자.",
+    bio: "대한민국에 흔해빠진 얕고 넓게 아는척하는 개발자.",
     email: "me@ivl.is",
     linkedin: "준서-남-ab92ba2b3",
     github: "tvj030728",
