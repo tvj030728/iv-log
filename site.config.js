@@ -55,7 +55,7 @@ const CONFIG = {
     config: {
       repo: "tvj030728/iv-log",
       "issue-term": "og:title",
-      label: "💬 Utterances",
+      label: "💬",
     },
   },
   cusdis: {
