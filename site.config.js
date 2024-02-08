@@ -51,15 +51,15 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: false,
+    enable: true,
     config: {
-      repo: "tvj030728/iv-log",
+      repo: "tvj030728/iv-log-comments",
       "issue-term": "og:title",
       label: "💬",
     },
   },
   cusdis: {
-    enable: true,
+    enable: false,
     config: {
       host: "https://cusdis.com",
       appid: "bc4de7fb-bbff-4243-9c4f-89e9ba4d1042", // Embed Code -> data-app-id value
