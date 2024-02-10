@@ -8,7 +8,6 @@ class MyDocument extends Document {
         <Head>
           <link rel="icon" href="/favicon.ico" />
           <link rel="preconnect" href="https://cdn.jsdelivr.net" />
-          <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
           <link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
           <link
             rel="apple-touch-icon"
