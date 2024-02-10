@@ -7,6 +7,8 @@ class MyDocument extends Document {
       <Html lang={CONFIG.lang}>
         <Head>
           <link rel="icon" href="/favicon.ico" />
+          <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+          <link href="https://cdn.jsdelivr.net/gh/toss/tossface/dist/tossface.css" rel="stylesheet" type="text/css" />
           <link
             rel="apple-touch-icon"
             sizes="192x192"
