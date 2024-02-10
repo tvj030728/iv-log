@@ -18,6 +18,12 @@ export const Global = () => {
           font-weight: ${pretendard.style.fontWeight};
           font-style: ${pretendard.style.fontStyle};
         }
+        
+        .notion-page {
+          font-family: ${pretendard.style.fontFamily};
+          font-weight: ${pretendard.style.fontWeight};
+          font-style: ${pretendard.style.fontStyle};
+        }
 
         * {
           color-scheme: ${theme.scheme};
